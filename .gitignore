@@ -35,7 +35,10 @@ frontend/dist/
 frontend/dist-ssr/
 *.local
 
-# Environment
+# Logs
+logs/
+*.log
+backend/logs/
 .env
 .env.*
 backend/.env
